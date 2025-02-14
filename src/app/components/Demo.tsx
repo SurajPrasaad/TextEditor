@@ -8,7 +8,7 @@ import TextAlign from '@tiptap/extension-text-align';
 import Superscript from '@tiptap/extension-superscript';
 import SubScript from '@tiptap/extension-subscript';
 import Highlight from "@tiptap/extension-highlight";
-import exp from 'constants';
+
 
 const content =
   ''
